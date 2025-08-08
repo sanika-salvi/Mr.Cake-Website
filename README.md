@@ -11,5 +11,7 @@ A responsive and user-friendly cake ordering website developed for Mr. Cake, a b
 
 🛠️ Tech Stack-
 Frontend: HTML,CSS,JavaScript
+
 Design: Responsive layout with clean and modern UI
+
 Backend:Mysql
