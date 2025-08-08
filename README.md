@@ -10,6 +10,6 @@ A responsive and user-friendly cake ordering website developed for Mr. Cake, a b
 🖥️ Fully responsive UI
 
 🛠️ Tech Stack-
-Frontend: HTML5, CSS3, JavaScript
+Frontend: HTML,CSS,JavaScript
 Design: Responsive layout with clean and modern UI
 Backend:Mysql
